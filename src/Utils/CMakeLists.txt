@@ -1,0 +1,3 @@
+
+add_library(ray_trace_utils INTERFACE)
+target_include_directories(ray_trace_utils INTERFACE include/)
